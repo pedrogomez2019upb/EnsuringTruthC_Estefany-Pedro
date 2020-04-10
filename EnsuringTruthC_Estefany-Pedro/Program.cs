@@ -6,7 +6,11 @@ namespace EnsuringTruthC_EstefanyPedro
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            String entrada = "" , salida="",casosString="";
+            int casos = 0;
+            casosString = Console.ReadLine();
+            casos = Int32.Parse(casosString);
+            //Console.WriteLine(casos);
         }
     }
 }
