@@ -1,0 +1,6 @@
+/Users/pipe22007/Projects/EnsuringTruthC_Estefany-Pedro/EnsuringTruthC_Estefany-Pedro/bin/Debug/EnsuringTruthC_Estefany-Pedro.exe
+/Users/pipe22007/Projects/EnsuringTruthC_Estefany-Pedro/EnsuringTruthC_Estefany-Pedro/bin/Debug/EnsuringTruthC_Estefany-Pedro.pdb
+/Users/pipe22007/Projects/EnsuringTruthC_Estefany-Pedro/EnsuringTruthC_Estefany-Pedro/obj/Debug/EnsuringTruthC_Estefany-Pedro.csprojAssemblyReference.cache
+/Users/pipe22007/Projects/EnsuringTruthC_Estefany-Pedro/EnsuringTruthC_Estefany-Pedro/obj/Debug/EnsuringTruthC_Estefany-Pedro.csproj.CoreCompileInputs.cache
+/Users/pipe22007/Projects/EnsuringTruthC_Estefany-Pedro/EnsuringTruthC_Estefany-Pedro/obj/Debug/EnsuringTruthC_Estefany-Pedro.exe
+/Users/pipe22007/Projects/EnsuringTruthC_Estefany-Pedro/EnsuringTruthC_Estefany-Pedro/obj/Debug/EnsuringTruthC_Estefany-Pedro.pdb

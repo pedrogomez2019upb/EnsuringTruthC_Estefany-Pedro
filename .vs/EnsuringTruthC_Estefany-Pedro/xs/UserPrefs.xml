@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4C9D0604-FE13-4C21-BAA7-E5D761BB36CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnsuringTruthC_Estefany-Pedro/Program.cs">
+    <Files>
+      <File FileName="EnsuringTruthC_Estefany-Pedro/Program.cs" Line="9" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnsuringTruthC_Estefany-Pedro" expanded="True">
+            <Node name="EnsuringTruthC_Estefany-Pedro" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EnsuringTruthC__Estefany-Pedro PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
